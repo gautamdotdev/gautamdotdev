@@ -11,5 +11,5 @@
 ---
 
 <p align="center">
-  <sup>✨ Two accounts, one developer — always building, always learning. ✨</sup>
+  <sup>✨ always building, always learning. ✨</sup>
 </p>
