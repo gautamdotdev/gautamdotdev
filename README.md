@@ -1,4 +1,4 @@
-### <samp>&gt; Hey, this is <a href="https://github.com/gautamdotdev" target="_blank">gautam.dev</a> — my dev-focused space 🚀</samp>
+### <samp>&gt; Hey, this is <a href="https://github.com/gautamdotdev" target="_blank">gautamm.dev</a> — my dev-focused space 🚀</samp>
 
 > Head over to my main account 👉 **[@makwanagautam41](https://github.com/makwanagautam41)** - That's where you'll find all my production projects, REST APIs, full-stack apps, and contributions.
 
